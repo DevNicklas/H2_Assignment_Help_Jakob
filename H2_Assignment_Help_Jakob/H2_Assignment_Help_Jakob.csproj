@@ -45,7 +45,7 @@
   <ItemGroup>
     <Compile Include="Models\ConvertToHTML.cs" />
     <Compile Include="Interfaces\IMessageConverter.cs" />
-    <Compile Include="Controllers\MessageSenders\SmptMessageSender.cs" />
+    <Compile Include="Controllers\MessageSenders\SmtpMessageSender.cs" />
     <Compile Include="Interfaces\IMessageSender.cs" />
     <Compile Include="Models\Message.cs" />
     <Compile Include="Program.cs" />
